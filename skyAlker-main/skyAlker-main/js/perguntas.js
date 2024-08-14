@@ -5,10 +5,10 @@ export const perguntas = [
             {
                 texto: "Isso é assustador!",
                 afirmacao: [
-                "No início ficou com medo do que essa tecnologia pode fazer. ",
-                "Acho assustador pensar na velocidade na qual a tecnologia está avançando, Percebo."
+                "No início ficou com medo do que essa tecnologia pode fazer. Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada. Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA. Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes. Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo. ",
+                "Acho assustador pensar na velocidade na qual a tecnologia está avançando."
              
-            ]
+                ],
             },
             
             {
@@ -16,8 +16,8 @@ export const perguntas = [
                 afirmacao: [
                 "Quis saber como usar IA no seu dia a dia.",
                 "Pensou que IA pode ajudar em tarefas da sua vida."
-                ]
-            }
+                ],
+            },
         ]
     },
     {
